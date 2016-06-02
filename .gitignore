@@ -24,3 +24,5 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+Assets/_oohhoo_data.meta
+*.meta
